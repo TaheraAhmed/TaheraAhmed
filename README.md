@@ -1,16 +1,13 @@
-## Hi there 👋
+# Syeda Tahera Ahmed
+**Data Engineer → AI Engineer** · LLMs, RAG, Databricks/Spark
 
-<!--
-**TaheraAhmed/TaheraAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Flagship:** DocuSync – ↓70% manual documentation, 2× faster turnaround (LLM + CI/CD, human-in-the-loop)
+- **Stacks:** Python, SQL, Spark/Delta, Databricks, OpenAI API, Azure/AWS/GCP
+- **Focus:** Production AI, evaluation, data reliability
 
-Here are some ideas to get you started:
+**Links:** [Portfolio](#) • [GitHub](https://github.com/yourhandle) • [LinkedIn](#) • [CV](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+- **DocuSync (GenAI, CI/CD):** [code](#) • [case study](#)
+- **Reddit Analytics (PySpark + NLP):** [code](#)
+- **YouTube Engagement (ML):** [code](#)
