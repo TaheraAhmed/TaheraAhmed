@@ -8,6 +8,6 @@
 **Links:** [Portfolio](#) • [GitHub](https://github.com/yourhandle) • [LinkedIn](#) • [CV](#)
 
 ## Selected Projects
-- **DocuSync (GenAI, CI/CD):** [code](#) • [case study](#)
-- **Reddit Analytics (PySpark + NLP):** [code](#)
-- **YouTube Engagement (ML):** [code](#)
+- **DocuSync (GenAI, CI/CD):** [code](https://github.com/TaheraAhmed/docusync) • [case study](#)
+- **Reddit Analytics (PySpark + NLP):** [code](https://github.com/TaheraAhmed/reddit-analytics)
+- **YouTube Engagement (ML):** [code](https://github.com/TaheraAhmed/youtube-engagement)
